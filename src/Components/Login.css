@@ -1,0 +1,14 @@
+body {
+    background: #21ba9e;
+    background: -webkit-linear-gradient(right,#21ba9e,#dea877);
+    background: -moz-linear-gradient(right,#21ba9e,#dea877);
+    background: -o-linear-gradient(right,#21ba9e,#dea877);
+    background: linear-gradient(to left,#21ba9e,#dea877);
+    font-family: roboto,sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+*{
+    padding: 3% 0 0;
+    margin: auto;
+}
